@@ -24,7 +24,7 @@ Steps:
     - Genre x Region (stacked bar graph)\
     - Release Date (bar graph)
   5) Google Slides\
-    - Intro
+    - Intro\
     - Body: Genre, Top 4 Genres, Genre x Region, Release date\
     - Conclusion\
     - Areas to Explore in the Future\
