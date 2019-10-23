@@ -35,4 +35,9 @@ Steps:
     - Thank you page
 
 Files in the respository:
-  - 
+  - Mod_1_Microsoft_Project_Notebook.ipynb
+  - Mod1_Project_Movies_IC_SH.pdf
+  - Data:
+    - tn.movie_budgets.csv
+    - imdb.title.basics.csv.gz
+  - README.md
