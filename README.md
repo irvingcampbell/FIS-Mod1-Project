@@ -8,36 +8,38 @@ Goal:
   
 Steps:
   1) Go through and explore data available
-  2) Choose which data sets to use
-    - tn.movie_budgets.csv
+  2) Choose which data sets to use\
+    - tn.movie_budgets.csv\
     - imdb.title.basics.csv.gz
-  3) Clean the chosen data using pandas
-    - merge dataframes
-    - drop unnecessary columns
-    - split columns
-    - add calculated info
-    - remove duplicates
+  3) Clean the chosen data using pandas\
+    - merge dataframes\
+    - drop unnecessary columns\
+    - split columns\
+    - add calculated info\
+    - remove duplicates\
     - etc.
-  4) Create visualizations using matplotlib.pyplot and seaborn
-    - Genre (bar graph)
-    - Top Genres (violin plots)
-    - Genre x Region (stacked bar graph)
+  4) Create visualizations using matplotlib.pyplot and seaborn\
+    - Genre (bar graph)\
+    - Top Genres (violin plots)\
+    - Genre x Region (stacked bar graph)\
     - Release Date (bar graph)
-  5) Google Slides
-    - Intro: big question
+  5) Google Slides\
+    - Intro: big question\
     - Body: Data analysis
       - Genre
       - Top Genres
       - Genre x Region
-      - Release Date
-    - Conclusion
-    - Areas to Explore in the Future
+      - Release Date\
+    - Conclusion\
+    - Areas to Explore in the Future\
     - Thank you page
 
 Files in the respository:
   - Mod_1_Microsoft_Project_Notebook.ipynb
+    - Jupyter notebook with data cleaning and visualization processes
   - Mod1_Project_Movies_IC_SH.pdf
-  - Data:
+    - Google Slides presentation of the results
+  - Data_sets:
     - tn.movie_budgets.csv
     - imdb.title.basics.csv.gz
   - README.md
