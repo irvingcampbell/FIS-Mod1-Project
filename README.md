@@ -35,7 +35,7 @@ Files in the respository:
     - Jupyter notebook with data cleaning and visualization processes
   - Mod1_Project_Movies_IC_SH.pdf
     - Google Slides presentation of the results
-  - Data_sets:
+  - final_joined_and_cleaned_dataset:
     - tn.movie_budgets.csv
     - imdb.title.basics.csv.gz
   - README.md
